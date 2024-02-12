@@ -1,3 +1,3 @@
 <html>
-<h1># Thabz-Hair-Corner</h1>
+<h1>Welcome to Thabz Hair Corner</h1>
 </html>
