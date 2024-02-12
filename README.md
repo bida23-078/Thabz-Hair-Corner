@@ -1,6 +1,6 @@
 <html>
    <head>
       <meta charset = "utf-8">
-      <title>Thabz Hair Corner</title>
+      <h1>Welcome to Thabz Hair Corner</h1>
    </head>
 </html>
