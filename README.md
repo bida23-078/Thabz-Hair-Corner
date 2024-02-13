@@ -3,7 +3,7 @@
 <html>  
    <head> 
       <meta charset = "utf-8"> 
-      <title>...</title> 
+      <title>Thabile's Hair Corner</title> 
    </head> 
   
    <body> 
