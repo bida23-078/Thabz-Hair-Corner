@@ -1,9 +1,7 @@
-<!DOCTYPE html>  
-
 <html>  
    <head> 
       <meta charset = "utf-8"> 
-      <title>Thabile's Hair Corner</title> 
+      <title>...</title> 
    </head> 
   
    <body> 
