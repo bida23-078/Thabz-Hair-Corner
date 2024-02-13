@@ -6,16 +6,18 @@
   
    <body> 
       <header role = "banner"> 
-         <h1>Thabile's Hair Salon</h1> 
-         <p>This webpage displays different types of hairtsyles for different hair types.</p> 
+         <h1>Hairstyles abd Haircuts</h1> 
+         <p>This webpage displays different types of hairtsyles.</p> 
       </header> 
    
       <nav> 
          <ul> 
-            <li><a href = "https://www.tutorialspoint.com/html">HTML Tutorial</a></li> 
-            <li><a href = "https://www.tutorialspoint.com/css">CSS Tutorial</a></li> 
-            <li><a href = "https://www.tutorialspoint.com/javascript">
-            JavaScript Tutorial</a></li> 
+            <li>Knotless braids</li> 
+            <li>Box braids</li> 
+            <li>Cornrows</li> 
+            <li>Dreadlocks</li>
+            <li>Men's haircuts</li>
+            <li>Women's haircut</li>
          </ul> 
       </nav> 
    
