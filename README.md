@@ -6,7 +6,7 @@
   
    <body> 
       <header role = "banner"> 
-         <h1>HTML5 Document Structure Example</h1> 
+         <h1>Thabile's Hair Salon</h1> 
          <p>This page should be tried in safari, chrome or Mozila.</p> 
       </header> 
    
