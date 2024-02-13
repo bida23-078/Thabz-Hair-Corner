@@ -7,7 +7,7 @@
    <body> 
       <header role = "banner"> 
          <h1>Thabile's Hair Salon</h1> 
-         <p>This page should be tried in safari, chrome or Mozila.</p> 
+         <p>This webpage displays different types of hairtsyles for different hair types.</p> 
       </header> 
    
       <nav> 
