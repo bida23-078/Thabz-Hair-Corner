@@ -1,10 +1,22 @@
-<html>
-   <head>
-      <meta charset = "utf-8">
-      <h1>Welcome to Thabz Hair Corner</h1>
-   </head>
+<!DOCTYPE html> 
 
-   <body>
-      <p>This hair business was started by Thabile Mothelesi.</p>
-   </body>
-</html>
+<html>  
+   <head> 
+      <meta charset = "utf-8"> 
+      <title>...</title> 
+   </head> 
+  
+   <body> 
+      <header>...</header> 
+      <nav>...</nav> 
+      
+      <article> 
+         <section> 
+            ... 
+         </section> 
+      </article> 
+      <aside>...</aside> 
+      
+      <footer>...</footer> 
+   </body> 
+</html> 
