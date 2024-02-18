@@ -13,12 +13,12 @@
       <nav> 
          <ul> 
             <li><a href="https://www.youtube.com/shorts/ZrcKG_UGPxw">Knotless braids</a></li> 
-            <li><a href="https://www.youtube.com/shorts/BgJG9kToxy4">Box braids</li> 
-            <li><a href="https://www.youtube.com/shorts/oAJhd17sqmg">Cornrows</li> 
-            <li><a href="https://www.youtube.com/shorts/XuX1o2-n9x4">Tribal braids</li>
-            <li><a href="https://www.youtube.com/shorts/RLYBKV7szSQ">Dreadlocks</li>
-            <li><a href="https://www.youtube.com/shorts/i8clWtc07cs">Women's haircuts</li>
-            <li><a href="https://www.youtube.com/shorts/QImeIWcO31Q">Men's haircut</li>
+            <li><a href="https://www.youtube.com/shorts/BgJG9kToxy4">Box braids</a></li> 
+            <li><a href="https://www.youtube.com/shorts/oAJhd17sqmg">Cornrows</a></li> 
+            <li><a href="https://www.youtube.com/shorts/XuX1o2-n9x4">Tribal braids</a></li>
+            <li><a href="https://www.youtube.com/shorts/RLYBKV7szSQ">Dreadlocks</a></li>
+            <li><a href="https://www.youtube.com/shorts/i8clWtc07cs">Women's haircuts</a></li>
+            <li><a href="https://www.youtube.com/shorts/QImeIWcO31Q">Men's haircut</a></li>
          </ul> 
       </nav> 
    
