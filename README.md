@@ -18,7 +18,7 @@
             <li><a href="https://www.youtube.com/shorts/XuX1o2-n9x4">Tribal braids</a></li>
             <li><a href="https://www.youtube.com/shorts/RLYBKV7szSQ">Dreadlocks</a></li>
             <li><a href="https://www.youtube.com/shorts/i8clWtc07cs">Women's haircuts</a></li>
-            <li><a href="https://www.youtube.com/shorts/QImeIWcO31Q">Men's haircut</a></li>
+            <li><a href="https://www.youtube.com/shorts/QImeIWcO31Q">Men's haircuts</a></li>
          </ul> 
       </nav> 
    
