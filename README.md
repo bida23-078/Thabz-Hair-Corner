@@ -12,13 +12,13 @@
    
       <nav> 
          <ul> 
-            <li>Knotless braids</li> 
+            <li><a href="#">Knotless braids</a></li> 
             <li>Box braids</li> 
             <li>Cornrows</li> 
             <li>Dreadlocks</li>
             <li>Men's haircuts</li>
             <li>Women's haircut</li>
-            <li>https://www.youtube.com/watch?v=sWoMNeHRcnk</li>
+            <li><a href="#">https://www.youtube.com/watch?v=sWoMNeHRcnk</a></li>
          </ul> 
       </nav> 
    
