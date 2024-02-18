@@ -23,6 +23,7 @@
       </nav> 
    
       <article> 
+      
          <section> 
             <p>Once article can have multiple sections</p>
          </section> 
@@ -33,7 +34,7 @@
       </aside> 
    
       <footer> 
-         <p>Created by <a href = "https://tutorialspoint.com/">Tutorials Point</a></p> 
+         <p>Created by Thabile Mothelesi</p> 
       </footer> 
    
    </body> 
