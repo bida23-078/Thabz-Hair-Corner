@@ -7,7 +7,7 @@
    <body> 
       <header role = "banner"> 
          <h1>Welcome to my webpage.</h1> 
-         <p>This webpage displays different types os hairstyles and haircuts.</p> 
+         <p>This webpage displays different types of hairstyles and haircuts.</p> 
       </header> 
    
       <nav> 
